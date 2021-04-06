@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rgomera/todoapp/issues"
   },
-  "homepage": "https://github.com/rgomera/todoapp#readme"
+  "homepage": "https://github.com/rgomera/todoapp#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
 }
